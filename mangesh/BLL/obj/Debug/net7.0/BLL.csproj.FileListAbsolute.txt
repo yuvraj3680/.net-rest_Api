@@ -1,0 +1,17 @@
+E:\mangesh\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\mangesh\BLL\bin\Debug\net7.0\BLL.dll
+E:\mangesh\BLL\bin\Debug\net7.0\BLL.pdb
+E:\mangesh\BLL\bin\Debug\net7.0\BOL.dll
+E:\mangesh\BLL\bin\Debug\net7.0\DAL.dll
+E:\mangesh\BLL\bin\Debug\net7.0\BOL.pdb
+E:\mangesh\BLL\bin\Debug\net7.0\DAL.pdb
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.dll
+E:\mangesh\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\mangesh\BLL\obj\Debug\net7.0\BLL.pdb
+E:\mangesh\BLL\obj\Debug\net7.0\ref\BLL.dll

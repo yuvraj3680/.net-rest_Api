@@ -1,0 +1,15 @@
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\mangesh\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\mangesh\DAL\bin\Debug\net7.0\DAL.dll
+E:\mangesh\DAL\bin\Debug\net7.0\DAL.pdb
+E:\mangesh\DAL\bin\Debug\net7.0\BOL.dll
+E:\mangesh\DAL\bin\Debug\net7.0\BOL.pdb
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.dll
+E:\mangesh\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\mangesh\DAL\obj\Debug\net7.0\DAL.pdb
+E:\mangesh\DAL\obj\Debug\net7.0\ref\DAL.dll
